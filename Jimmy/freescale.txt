@@ -1,0 +1,1 @@
+freescale has been merge to nxp
